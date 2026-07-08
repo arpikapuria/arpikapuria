@@ -34,7 +34,7 @@ Built a Python library implementing Gaussian elimination, Jacobi, and Gauss-Seid
 
 ## Tech Stack
 
-**Languages:** Python, SQL, LaTeX, MATLAB, R, C++
+**Languages:** Python, SQL, LaTeX, MATLAB, R, C++ 
 **Libraries:** pandas, NumPy, matplotlib, seaborn, scikit-learn  
 **Interests:** Data Science, Quant Finance, Machine Learning, Mathematical Modeling
 
