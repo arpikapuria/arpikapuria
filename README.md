@@ -4,26 +4,33 @@ I'm a Mathematics student at UC Irvine interested in data science, finance, mach
 
 ## Featured Projects
 
+### Equity Statistical Arbitrage Backtest
+Quant finance project that backtests a pairs trading strategy using cointegration, rolling hedge ratios, spread z-scores, transaction costs, and portfolio performance metrics.  
+**Tools:** Python, pandas, NumPy, statsmodels, yfinance, matplotlib  
+**Skills:** statistical arbitrage, backtesting, risk metrics, time series analysis, quantitative finance  
+
+[View Project](https://github.com/arpikapuria/equity-stat-arb-backtest))
+
 ### Adult Income Census Analysis
 Machine learning project using the UCI Census Income dataset to predict income categories.  
 **Tools:** Python, pandas, scikit-learn, seaborn, matplotlib  
 **Skills:** classification, data cleaning, EDA, model evaluation  
 
-[View Project](YOUR_PROJECT_LINK_HERE)
+[View Project](https://github.com/arpikapuria/Adult-Income-Census)
 
 ### Fandango Ratings Analysis
 Data analysis project exploring whether movie ratings on Fandango differed from other rating platforms.  
 **Tools:** Python, pandas, matplotlib, seaborn  
 **Skills:** data visualization, exploratory data analysis, bias detection  
 
-[View Project](YOUR_PROJECT_LINK_HERE)
+[View Project](https://github.com/arpikapuria/Movie-Ratings-Data-Analysis)
 
 ### Numerical Linear System Solver Library
 Built a Python library implementing Gaussian elimination, Jacobi, and Gauss-Seidel methods.  
 **Tools:** Python, NumPy, matplotlib  
 **Skills:** numerical methods, benchmarking, linear algebra  
 
-[View Project](YOUR_PROJECT_LINK_HERE)
+[View Project](https://github.com/arpikapuria/Linear-Solver-Library)
 
 ## Tech Stack
 
