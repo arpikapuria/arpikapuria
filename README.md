@@ -9,7 +9,7 @@ Quant finance project that backtests a pairs trading strategy using cointegratio
 **Tools:** Python, pandas, NumPy, statsmodels, yfinance, matplotlib  
 **Skills:** statistical arbitrage, backtesting, risk metrics, time series analysis, quantitative finance  
 
-[View Project](https://github.com/arpikapuria/equity-stat-arb-backtest))
+[View Project](https://github.com/arpikapuria/equity-stat-arb-backtest)
 
 ### Adult Income Census Analysis
 Machine learning project using the UCI Census Income dataset to predict income categories.  
