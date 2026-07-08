@@ -10,6 +10,21 @@ Quant finance project that backtests a pairs trading strategy using cointegratio
 
 [View Project](https://github.com/arpikapuria/equity-stat-arb-backtest)
 
+### Portfolio Risk & Return Optimizer
+
+Quant finance project that simulates thousands of portfolio allocations to compare risk and return tradeoffs. The project calculates annualized returns, volatility, Sharpe ratios, covariance-based risk, and identifies the maximum Sharpe ratio and minimum volatility portfolios.  
+**Tools:** Python, pandas, NumPy, yfinance, matplotlib  
+**Skills:** portfolio optimization, risk-return analysis, covariance matrices, Sharpe ratio, efficient frontier, financial modeling  
+
+[View Project](https://github.com/arpikapuria/portfolio-risk-return-optimizer)
+
+### Numerical Linear System Solver Library
+Built a Python library implementing Gaussian elimination, Jacobi, and Gauss-Seidel methods.  
+**Tools:** Python, NumPy, matplotlib  
+**Skills:** numerical methods, benchmarking, linear algebra  
+
+[View Project](https://github.com/arpikapuria/Linear-Solver-Library)
+
 ### Adult Income Census Analysis
 Machine learning project using the UCI Census Income dataset to predict income categories.  
 **Tools:** Python, pandas, scikit-learn, seaborn, matplotlib  
@@ -24,26 +39,19 @@ Data analysis project exploring whether movie ratings on Fandango differed from 
 
 [View Project](https://github.com/arpikapuria/Movie-Ratings-Data-Analysis)
 
-### Numerical Linear System Solver Library
-Built a Python library implementing Gaussian elimination, Jacobi, and Gauss-Seidel methods.  
-**Tools:** Python, NumPy, matplotlib  
-**Skills:** numerical methods, benchmarking, linear algebra  
-
-[View Project](https://github.com/arpikapuria/Linear-Solver-Library)
-
 ## Tech Stack
 
 **Languages:** Python, SQL, MATLAB, R, C++, LaTeX  
 **Data/ML:** pandas, NumPy, scikit-learn, statsmodels  
 **Visualization:** matplotlib, seaborn  
-**Finance/Quant:** yfinance, backtesting, statistical arbitrage, portfolio optimization  
+**Finance/Quant:** yfinance, portfolio optimization, statistical arbitrage, backtesting, risk analysis  
 **Math:** Linear algebra, probability, statistics, optimization
 
 ## Currently Working On
 
-- Building more finance and data science projects
-- Strengthening my Python and machine learning skills
-- Applying math to real-world datasets
+- Building quantitative finance projects focused on portfolio optimization, statistical arbitrage, and risk modeling
+- Applying mathematical methods to financial datasets and real-world decision-making problems
+- Strengthening my Python, machine learning, and financial modeling skills
 
 ## Connect With Me
 
