@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Arpi 👋
 
-<!--
-**arpikapuria/arpikapuria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Mathematics student at UC Irvine interested in data science, finance, machine learning, and quantitative analysis. I like building projects that turn messy data into clear insights.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Adult Income Census Analysis
+Machine learning project using the UCI Census Income dataset to predict income categories.  
+**Tools:** Python, pandas, scikit-learn, seaborn, matplotlib  
+**Skills:** classification, data cleaning, EDA, model evaluation  
+
+[View Project](YOUR_PROJECT_LINK_HERE)
+
+### Fandango Ratings Analysis
+Data analysis project exploring whether movie ratings on Fandango differed from other rating platforms.  
+**Tools:** Python, pandas, matplotlib, seaborn  
+**Skills:** data visualization, exploratory data analysis, bias detection  
+
+[View Project](YOUR_PROJECT_LINK_HERE)
+
+### Numerical Linear System Solver Library
+Built a Python library implementing Gaussian elimination, Jacobi, and Gauss-Seidel methods.  
+**Tools:** Python, NumPy, matplotlib  
+**Skills:** numerical methods, benchmarking, linear algebra  
+
+[View Project](YOUR_PROJECT_LINK_HERE)
+
+## Tech Stack
+
+**Languages:** Python, SQL, LaTeX  
+**Libraries:** pandas, NumPy, matplotlib, seaborn, scikit-learn  
+**Interests:** Data Science, Quant Finance, Machine Learning, Mathematical Modeling
+
+## Currently Working On
+
+- Building more finance and data science projects
+- Strengthening my Python and machine learning skills
+- Applying math to real-world datasets
+
+## Connect With Me
+
+LinkedIn: YOUR_LINKEDIN_HERE  
+Email: YOUR_EMAIL_HERE
