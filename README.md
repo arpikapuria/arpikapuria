@@ -1,6 +1,6 @@
 # Hi, I'm Arpi 👋
 
-I'm a Mathematics student at UC Irvine interested in quantitative finance, data science, machine learning, and financial modeling. I build Python projects that apply statistics, optimization, and mathematical reasoning to real-world data, with a focus on turning complex datasets into actionable insights.
+I'm a Mathematics graduate from UC Irvine interested in quantitative finance, data science, machine learning, and financial modeling. I build Python projects that apply statistics, optimization, and mathematical reasoning to real-world data, with a focus on turning complex datasets into actionable insights.
 ## Featured Projects
 
 ### Equity Statistical Arbitrage Backtest
