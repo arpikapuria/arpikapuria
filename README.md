@@ -12,7 +12,7 @@ Quant finance project that backtests a pairs trading strategy using cointegratio
 
 ### Quant Factor Research Lab
 
-Quant research project that tests cross-sectional alpha signals using momentum, short-term reversal, volatility, and market beta. The project uses walk-forward Ridge regression to predict next-month returns, evaluates signal strength with Information Coefficient analysis, and backtests a market-neutral long/short portfolio with transaction costs.
+Quant research project that tests cross sectional alpha signals using momentum, short-term reversal, volatility, and market beta. The project uses walk forward Ridge regression to predict next month returns, evaluates signal strength with Information Coefficient analysis, and backtests a market-neutral long/short portfolio with transaction costs.
 
 **Tools:** Python, pandas, NumPy, scikit-learn, SciPy, yfinance, matplotlib  
 **Skills:** factor modeling, alpha research, Ridge regression, walk-forward validation, information coefficient analysis, market-neutral backtesting, transaction cost modeling
