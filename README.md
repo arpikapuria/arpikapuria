@@ -29,7 +29,7 @@ Quant finance project that simulates thousands of portfolio allocations to compa
 
 ### Generative Geometry Studio
 
-Creative coding project that generates algorithmic artwork using mathematical patterns, geometry, and randomness. Built multiple art generators including flow fields, rose curves, harmonographs, mandala-style orbital patterns, and constellation-inspired designs, with customizable palettes and exportable high-resolution PNG outputs.
+Creative coding project that generates algorithmic artwork using mathematical patterns, geometry, and randomness. Built multiple art generators including flow fields, rose curves, harmonographs, mandala-style orbital patterns, and constellation inspired designs, with customizable palettes and exportable high-resolution PNG outputs.
 
 **Tools:** Python, NumPy, Pillow  
 **Skills:** generative art, creative coding, mathematical modeling, geometry, algorithm design, data visualization, Python development
