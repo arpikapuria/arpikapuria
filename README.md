@@ -10,6 +10,15 @@ Quant finance project that backtests a pairs trading strategy using cointegratio
 
 [View Project](https://github.com/arpikapuria/equity-stat-arb-backtest)
 
+### Quant Factor Research Lab
+
+Quant research project that tests cross-sectional alpha signals using momentum, short-term reversal, volatility, and market beta. The project uses walk-forward Ridge regression to predict next-month returns, evaluates signal strength with Information Coefficient analysis, and backtests a market-neutral long/short portfolio with transaction costs.
+
+**Tools:** Python, pandas, NumPy, scikit-learn, SciPy, yfinance, matplotlib  
+**Skills:** factor modeling, alpha research, Ridge regression, walk-forward validation, information coefficient analysis, market-neutral backtesting, transaction cost modeling
+
+[View Project](https://github.com/arpikapuria/quant-factor-research-lab)
+
 ### Portfolio Risk & Return Optimizer
 
 Quant finance project that simulates thousands of portfolio allocations to compare risk and return tradeoffs. The project calculates annualized returns, volatility, Sharpe ratios, covariance-based risk, and identifies the maximum Sharpe ratio and minimum volatility portfolios.  
