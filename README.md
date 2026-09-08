@@ -27,6 +27,15 @@ Quant finance project that simulates thousands of portfolio allocations to compa
 
 [View Project](https://github.com/arpikapuria/portfolio-risk-return-optimizer)
 
+### Generative Geometry Studio
+
+Creative coding project that generates algorithmic artwork using mathematical patterns, geometry, and randomness. Built multiple art generators including flow fields, rose curves, harmonographs, mandala-style orbital patterns, and constellation-inspired designs, with customizable palettes and exportable high-resolution PNG outputs.
+
+**Tools:** Python, NumPy, Pillow  
+**Skills:** generative art, creative coding, mathematical modeling, geometry, algorithm design, data visualization, Python development
+
+[View Project](https://github.com/arpikapuria/generative-geometry-studio)
+
 ### Numerical Linear System Solver Library
 Built a Python library implementing Gaussian elimination, Jacobi, and Gauss-Seidel methods.  
 **Tools:** Python, NumPy, matplotlib  
